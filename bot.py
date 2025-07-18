@@ -6,7 +6,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 
 BOT_TOKEN = "8071517946:AAFJNR00L3Il4cruOdaGeCtAvdNlwx47nn4"
 OWNER_ID = 6660880060  # Eva_Chowdhury_pori
-CHANNEL_USERNAME = "@mwyluTYFDeFmNDI1"
+CHANNEL_USERNAME = "t.me/mwyluTYFDeFmNDI1"
 
 DATA_FILE = "users.json"
 
